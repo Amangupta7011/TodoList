@@ -1,0 +1,10 @@
+
+.strike{
+  text-decoration: line-through;
+}
+body{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 10px;
+}
